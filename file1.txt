@@ -1,2 +1,11 @@
 This is a text file for the repository we need to create for homework 1 
 task 1.
+
+Days of the week:
+1) Monday
+2) Tuesday
+3) Wednesday
+4) Thursday
+5) Friday
+6) Saturday
+7) Sunday
