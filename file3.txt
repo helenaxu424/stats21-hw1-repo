@@ -1,2 +1,7 @@
 This is a third text file for the repository for homework 1.
 
+
+Languages I know:
+1) English
+2) Chinese
+3) A bit of Spanish
