@@ -1,2 +1,8 @@
 This is another text file for the repository created for homework 1 task 
 1.
+
+Seasons:
+1) Summer
+2) Spring
+3) Fall
+4) Winter
